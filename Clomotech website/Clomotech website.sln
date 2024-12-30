@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clomotech website", "Clomotech website\Clomotech website.csproj", "{E08710FA-7C3C-4D9E-86C7-3E70513C3C86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E08710FA-7C3C-4D9E-86C7-3E70513C3C86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E08710FA-7C3C-4D9E-86C7-3E70513C3C86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E08710FA-7C3C-4D9E-86C7-3E70513C3C86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E08710FA-7C3C-4D9E-86C7-3E70513C3C86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BBD2253-1F8F-4845-B93D-25A9A5FEA8A3}
+	EndGlobalSection
+EndGlobal
